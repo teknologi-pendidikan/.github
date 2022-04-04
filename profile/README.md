@@ -40,3 +40,13 @@ Kami sangat senang melihat anda berkunjung ✨ dan dan kami harap kalian dapat s
 Made with 🖤
 🙇‍♂️🎤⬇️
 -->
+
+### Sponsors
+
+<a href="https://www.netlify.com">
+  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
+</a>
+
+<a href="https://vercel.com">
+  <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" />
+</a>
