@@ -43,10 +43,6 @@ Made with 🖤
 
 ### Sponsors
 
-<a href="https://www.netlify.com">
-  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
-</a>
+[![Deploys by Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg "Deploys by Netlify")](https://www.netlify.com)
 
-<a href="https://vercel.com">
-  <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" />
-</a>
+[![Deploys on Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg "Deploys on Netlify")](https://vercel.com)
