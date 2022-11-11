@@ -1,6 +1,6 @@
 ## Halo Teknolog Pendidikan 👋
 
-![Banner Profil Organisasi Github Teknologi Pendidikan](https://raw.githubusercontent.com/teknologi-pendidikan/.github/main/profile/banner-profile.png)
+![Banner Profil Organisasi Github Teknologi Pendidikan](https://raw.githubusercontent.com/teknologi-pendidikan/.github/main/profile/github-frame.png)
 
 Teknologi Pendidikan adalah studi dan etika praktik untuk memfasilitasi pembelajaran dan meningkatkan kinerja dengan menciptakan, menggunakan, dan mengelola proses teknologi yang sesuai dan sumber daya (AECT, 2008). Kami, para teknolog pendidikan, merencanakan dan mengembangkan teknologi untuk membuat kehidupan keluarga besar bidang pendidikan merasakan pengalaman yang menyenangkan. Kami sadar bahwa keterbukaan serta kolaborasi dalam dunia yang serba adaptif adalah salah satu kunci untuk mewujudkan pendidikan yang lebih terbuka.
 
