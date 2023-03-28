@@ -2,44 +2,39 @@
 
 ![Banner Profil Organisasi Github Teknologi Pendidikan](https://raw.githubusercontent.com/teknologi-pendidikan/.github/main/profile/github-frame.png)
 
-Teknologi Pendidikan adalah studi dan etika praktik untuk memfasilitasi pembelajaran dan meningkatkan kinerja dengan menciptakan, menggunakan, dan mengelola proses teknologi yang sesuai dan sumber daya (AECT, 2008). Kami, para teknolog pendidikan, merencanakan dan mengembangkan teknologi untuk membuat kehidupan keluarga besar bidang pendidikan merasakan pengalaman yang menyenangkan. Kami sadar bahwa keterbukaan serta kolaborasi dalam dunia yang serba adaptif adalah salah satu kunci untuk mewujudkan pendidikan yang lebih terbuka.
+EDTECH-ID merupakan komunitas yang dijalankan secara sukarela, independen yang bertujuan dalam mengembangkan teknologi untuk menciptakan inovasi-berbasis karakter dalam memfasilitasi pembelajaran dan meningkatkan performa pembelajaran. Kami memiliki tujuan sederhana, yaitu membantu para pengajar dan siswa di Indonesia untuk mendapatkan akses terbaik ke teknologi dan sumber daya pendidikan yang dapat membantu mereka dalam proses pembelajaran. Tujuan kami sederhana namun tidak mudah, kami berharap dengan adanya program-program kami ini dapat membantu para pengajar dan siswa di Indonesia untuk mendapatkan akses terbaik ke teknologi dan sumber daya pendidikan yang dapat membantu mereka dalam proses pembelajaran.
 
-### 💡 Inovasi yang terus bergulir
+### 💡 Program Kami
 
-Inovasi adalah 💗 jantung dari para teknolog pendidikan. Kita menyelesaikan beragam tantangan yang menghasilkan sebuah solusi. Lihat beberapa hasil karya kami:
+Saat ini, kami memiliki beberapa program yang dapat diikuti oleh para pengajar dan siswa di Indonesia. Program-program ini dapat diikuti secara gratis dan dapat diikuti oleh siapa saja yang berminat. Program-program ini dapat diikuti secara online maupun offline. Kami akan terus mengembangkan program-program ini untuk dapat membantu para pengajar dan siswa di Indonesia.
 
-- [HMDTEP-API](https://github.com/teknologi-pendidikan/hmdtep-api) merupakan *proof of concept* dalam mensederhanakan penggunaan Google Spreadsheet dengan antarmuka situs web.
-- [Sistem Informasi HMD TEP](https://github.com/teknologi-pendidikan/hmj.tep) solusi alternatif penggunaan linktree dengan fitur yang dapat dikustomisasi dengan mudah menggunakan Google Spreadsheet.
+Banyak kolaborasi yang kami lakukan dengan berbagai pihak, baik pihak swasta maupun pemerintah. Kami berharap dengan adanya program-program ini dapat membantu para pengajar dan siswa di Indonesia untuk mendapatkan akses terbaik ke teknologi dan sumber daya pendidikan yang dapat membantu mereka dalam proses pembelajaran.
 
-### 👩‍👩‍👧‍👦 Komunitas yang saling terhubung
+Kami harap kalian dapat berkontribusi pada program-program kami ini dan dapat membantu pengajar di Indonesia untuk mendapatkan akses terbaik ke teknologi dan sumber daya pendidikan yang dapat membantu mereka dalam proses pembelajaran.
 
-Kerjasama adalah nilai yang kami junjung dalam memecahkan solusi. Kami merencanakan, menyelesaikan, dan menindaklanjuti masalah dengan orang - orang disekitar kami, bahkan anda mungkin salah satunya. Menjadi bagian dari sebuah komunitas merupakan hal yang sangat membaganggakan karena kami dapat mengetahui lebih dalam bagaimana orang - orang berinteraksi, menyelesaikan masalah hingga berbahagia di dalamnya ✨.
+### 👩‍👩‍👧‍👦 Ekosistem
+
+Kami percaya bahwa komunitas terbuka adalah kunci untuk membangun sebuah ekosistem yang positif. EDTECH-ID senantiasa mendukung berbagai komunitas, lembaga hingga masyarakat yang memiliki mimpi untuk membangun pendidikan yang lebih baik.
+
+**1. Sumberdaya Komunitas**
+
+Kami menyambut kalian dengan tangan terbuka pada komunitas EDTECH-ID. Sebelum melanjutkan, kami mohon kepada kalian untuk membaca beberapa ketentuan dan tata tertib dalam berkontribusi atau menjalin kerjasama dengan tim EDTECH-ID. Kami harap dengan memahami dokumen - dokumen tersebut dapat memberikan kalian wawasan bagaimana tim EDTECH-ID bekerja sama.
 
 ### 👓 Akhir Kata
 
 Kami sangat senang melihat anda berkunjung ✨ dan dan kami harap kalian dapat segera bergabung dan menjalin hubungan dengan kami semua 🙇‍♂️. Terima kasih dan selamat datang para Teknolog Pendidikan 🙌.
 
-<details> 
-	<summary>"Saya ingin bergabung! Bagaimana caranya?"</summary>
-	<br>
-	<ul>
-	<li>Kalian dapat mengusulkan proyek kepada kami untuk ditambahkan kedalam Github Orgs ini melalui email yang telah tertera.</li>
-		<li>Jika kalian tidak memiliki usul proyek, kalian dapat:
-			<ul>
-				<li>Usulkan ide atau perbaikan pada proyek yang menurut kalian menarik,</li>
-				<li>Buatlah dokumentasi tentang cara penggunaan aplikasi yang kami kembangkan,</li>
-				<li>Sebarluaskan kepada pengikut anda tentang kami. </li>
-			</ul>
-		</li>
-	</ul>
-</details>
+**Ikut Berkolaborasi**
 
----
+Kami menciptakan, memanfaatkan, dan mengelola teknologi yang tersedia di lingkungan pendidikan. Kami terbuka akan kolaborasi ide, proses serta pengembangan dalam segala lingkup untuk mencapai tujuan sederhana kami.
 
-<!--
+- [Daftar repositori](https://github.com/orgs/teknologi-pendidikan/repositories)
+- [Ikut berdiskusi](https://github.com/orgs/teknologi-pendidikan/discussions)
+- [Ajukan proyek digital](mailto:dptsi@teknologipendidikan.or.id)
+- [Kirim karya artikel](https://lofi.teknologipendidikan.or.id/kirim-artikel)
+
 Made with 🖤
 🙇‍♂️🎤⬇️
--->
 
 ### Sponsors
 
